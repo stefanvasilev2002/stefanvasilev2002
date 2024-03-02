@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Petar :)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stefan :)
 ================================================================================================================================
 
 Software Engineer Student at FCSE - Skopje
@@ -36,5 +36,5 @@ Software Engineer Student at FCSE - Skopje
 
 <b>My LeetCode Stats</b>
 <br><br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/stefanvasilev2002?width=500&height=195)
+![Leetcode Stats](https://leetcard.jacoblin.cool/stefance2002?width=500&height=195)
 
