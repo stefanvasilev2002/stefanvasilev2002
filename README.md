@@ -5,7 +5,7 @@ Software Engineer Student at FCSE - Skopje
 
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/stefan-vasilev-6b2526109/)
 * ✉️  You can contact me at [vasilevstefan2002@gmail.com](mailto:vasilevstefan2002@gmail.com)
-* ⚡  I have some interesting project on my repos, check it out :D
+* ⚡  I have some interesting projects in my repos, check them out :D
 
 ### Skills
 
