@@ -6,9 +6,9 @@
 
 ## About Me 🎓
 
-I'm a passionate Software Engineering student at FCSE - Skopje, dedicated to building efficient and innovative software solutions. My journey in tech spans multiple domains, from backend development to frontend technologies.
+I'm a passionate Software Engineer with a Bachelor's degree from FCSE - Skopje, dedicated to building efficient and innovative software solutions. My journey in tech spans multiple domains, from backend development to frontend technologies.
 
-- 🔭 Currently studying Software Engineering at FCSE - Skopje
+- 🎓 Graduate in Software Engineering from FCSE - Skopje
 - 💼 Open to collaboration on interesting projects
 - 📚 Continuously learning and expanding my tech stack
 - ⚡ Check out my repositories for some interesting projects!
@@ -26,6 +26,10 @@ I'm a passionate Software Engineering student at FCSE - Skopje, dedicated to bui
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
+### Systems Programming
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
 ### Frontend Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -39,10 +43,6 @@ I'm a passionate Software Engineering student at FCSE - Skopje, dedicated to bui
 ![Microsoft SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Systems Programming
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 ### DevOps & Tools
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
